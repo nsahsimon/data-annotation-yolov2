@@ -1,0 +1,5 @@
+#ignore all images to be annotated
+images/*.png
+
+#ignore all annotation files
+annotations/*.xml
